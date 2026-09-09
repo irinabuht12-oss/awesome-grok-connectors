@@ -64,8 +64,8 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 - [X Ads](https://ads.x.com) **`C`** - Give Grok access to your X ad campaigns: view campaigns, ad groups, and ads - and update creatives or create new ads with Imagine. xAI states it does not train on X Ads data and that Grok only reads or changes ads when you ask. *Use case: Checking campaign performance from chat, adjusting a running ad group, generating fresh creatives without opening Ads Manager.*
 
-- [Google Ads MCP by Ryze AI](https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp/tree/main/google-ads-mcp) **`M`** - Bring-your-own MCP for Google Ads (`https://connector.get-ryze.ai/mcp`, OAuth, free): search terms, GAQL reports, Keyword Planner, recommendations, approved budget and negative-keyword changes. *Use case: "Which search terms spent over $50 with zero conversions this month?"*
-- [Meta Ads MCP by Ryze AI](https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp/tree/main/meta-ads-mcp) **`M`** - Bring-your-own MCP for Facebook and Instagram Ads (same endpoint): Insights by ad set and ad, creative fatigue, lead forms, Ad Library research, approved edits. *Use case: "Which ads have frequency above 3 and falling CTR this week?"*
+- [Google Ads MCP by Ryze AI](https://www.get-ryze.ai/google-ads-mcp) **`M`** - Bring-your-own MCP for Google Ads (`https://connector.get-ryze.ai/mcp`, OAuth, free): search terms, GAQL reports, Keyword Planner, recommendations, approved budget and negative-keyword changes. *Use case: "Which search terms spent over $50 with zero conversions this month?"*
+- [Meta Ads MCP by Ryze AI](https://www.get-ryze.ai/meta-ads-mcp) **`M`** - Bring-your-own MCP for Facebook and Instagram Ads (same endpoint): Insights by ad set and ad, creative fatigue, lead forms, Ad Library research, approved edits. *Use case: "Which ads have frequency above 3 and falling CTR this week?"*
 
 ## Analytics
 
