@@ -64,6 +64,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 - [X Ads](https://ads.x.com) **`C`** - Give Grok access to your X ad campaigns: view campaigns, ad groups, and ads - and update creatives or create new ads with Imagine. xAI states it does not train on X Ads data and that Grok only reads or changes ads when you ask. *Use case: Checking campaign performance from chat, adjusting a running ad group, generating fresh creatives without opening Ads Manager.*
 
+- [Ryze AI](https://www.get-ryze.ai) **`M`** - Bring-your-own MCP for Google Ads, Meta Ads, GA4 and Search Console (`https://connector.get-ryze.ai/mcp`, OAuth, free). Audit wasted spend, explain CPA changes, pull any report, and apply budget or negative-keyword changes with approval. *Use case: "Which search terms spent over $50 with zero conversions this month?"*
 
 ## Analytics
 
